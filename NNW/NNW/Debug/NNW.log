@@ -1,0 +1,22 @@
+﻿  NeuroForm.cpp
+C:\Users\User\source\repos\NNW\NNW\Network.cpp(63,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\Network.cpp(84,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\Network.cpp(143,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\Network.cpp(517,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\Network.cpp(520,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\Network.cpp(539,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\Network.cpp(542,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\Network.cpp(545,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\Network.cpp(548,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\NeuroForm.cpp(325,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\NeuroForm.cpp(374,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\NeuroForm.cpp(398,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\NeuroForm.cpp(471,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\NeuroForm.cpp(496,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\NeuroForm.cpp(518,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\NeuroForm.cpp(542,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\NeuroForm.cpp(612,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\NNW\NNW\NeuroForm.cpp(534,7): warning C4101: right_res: неиспользованная локальная переменная
+C:\Users\User\source\repos\NNW\NNW\NeuroForm.cpp(604,7): warning C4101: right_res: неиспользованная локальная переменная
+  Network.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  NNW.vcxproj -> C:\Users\User\source\repos\NNW\Debug\NNW.exe

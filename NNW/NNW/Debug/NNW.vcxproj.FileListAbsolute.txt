@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\NNW\NNW\Debug\NNW.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\NNW\NNW\Debug\NNW.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\NNW\NNW\Debug\NNW.NeuroForm.resources
